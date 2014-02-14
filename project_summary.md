@@ -2,8 +2,8 @@
 biChrom@: The collapse between 2 interactions.
 
 ## Authors
-Mariel Rodríguez
-René Zurita, https://github.com/Ramzawulf
++ Mariel Rodríguez, http://marielrodart.wordpress.com/
++ René Zurita, https://github.com/Ramzawulf/
 
 ## Description
 BiChrom@ is our attempt to conquer the barrier of geographical space by opening an electronic window which allows two complete strangers (from distant places) to interact with each other in a visual way and share that experience - the result - with the world.
