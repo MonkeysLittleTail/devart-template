@@ -1,4 +1,4 @@
-# Project Title
+# BiChrom@
 biChrom@: The collapse between 2 interactions.
 
 ## Authors
