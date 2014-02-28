@@ -1,4 +1,4 @@
-# BiChrom@ 
+﻿# BiChrom@ 
 biChrom@: The collapse between 2 interactions.
 
 ## Authors
@@ -17,7 +17,7 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 function test() {
-  console.log("No code yet");
+  console.log("No code yet!!!");
 }
 ```
 ## Links to External Libraries
