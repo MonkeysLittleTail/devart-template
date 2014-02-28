@@ -27,5 +27,4 @@ However we don't believe that the cameras are going to be so desynchronized.
 To prevent that, the cycles have to be bigger, i.e., more strobes.
 
 
-[Sketch](project_images/10.jpg "Sketch")
 ![Sketch](project_images/10.jpg?raw=true "Sketch")
