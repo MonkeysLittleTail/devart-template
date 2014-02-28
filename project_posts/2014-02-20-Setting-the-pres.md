@@ -1,6 +1,6 @@
 The idea to synchronize the cameras is to use LED lights that flash in a constant rhythm, stroboscopes.
 
-![Flash](http://makeagif.com/i/AnlhzQ?raw=true "Flash")
+![Flash](project_images/flash.gif?raw=true "Flash")
 
 As a example, let's say we have a 4/4 compass in which we have 4 lights. 
 So when the cameras are processing the images, if one of them, let's say camera 2 is in compass 2 (2/4), 
