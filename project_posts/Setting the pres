@@ -1,0 +1,15 @@
+
+
+
+ onUpdate( ){
+	if(camera1.position == camera2.position){
+		camera1.position++;
+		camera2.position++;
+	}else if(camera1.position > camera2.position ) {
+		camera2.position++;
+	} else {
+		camera1.position++;
+	}
+}
+
+
