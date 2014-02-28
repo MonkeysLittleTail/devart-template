@@ -7,7 +7,8 @@ So when the cameras are processing the images, if one of them, let's say camera 
 but camera 1 is in compass 1 (1/4) with a delayed frame, what is going to happen is that the code 
 is going to make the camera 2 ignore the immediate next beat (3) and hold its position, i.e. compass 2/4. 
 
-
+Synchronized!
+![Synchronized](project_images/synchronized.gif?raw=true "Synchronized")
 
 The code would then be:
 
